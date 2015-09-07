@@ -1,0 +1,67 @@
+body
+{
+background-image:url("kill.jpg");
+ background-repeat: no-repeat;
+ font-size:110%;
+ font-family:Sans-serif;
+ line-height:30px;
+ margin-left:15px;
+}
+h1{
+	text-align:center;
+}
+hr{
+	border-color:black;
+	height :5px;
+	background-color:black;
+}
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p.pcenter{
+	text-align:center;
+	font-size:140%;
+}
+#linkcon{
+	
+	text-align:center;
+	font-size:120%;
+}
+#quote{
+	font-style:italic;
+	background-color:yellow;
+}
+.mname{
+	font-weight:bold;
+	color:red;
+}
+.heading{
+	font-weight:bold;
+	font-size:120%;
+}
+table{
+   width:80%;
+   margin-left:auto;
+   margin-right:auto;
+   border:0;
+}
+th{
+	height:50px;
+	font-size:110%;
+}
+td {
+    padding: 15px;
+	text-align:center;
+	
+}
+tr:nth-of-type(odd) {
+   background-color: #cccfff;
+}
+tr:nth-of-type(even) {
+   background-color: #ffffff;
+}
+a:hover{
+	color: red;
+}
