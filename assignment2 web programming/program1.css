@@ -1,0 +1,108 @@
+/*Account:vvellanki2 File:program1.css
+*/
+body{
+	background-color:#FFCC00;
+	font-family:Georgia,Garamond,Sans-serif;
+
+
+	color:#000000;
+}
+ul.navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	overflow:hidden;
+}
+li.nav{
+	display:inline;
+
+}
+.fbold{
+	font-weight:bold;
+}
+.sibold{
+	font-size:110%;
+	font-weight:bold;
+}
+a.navi{
+	
+	background-color:#D1FFA3;
+	padding:7px;
+	
+	border-right:15px solid Navy;
+}
+img.p1{
+	width:50%;
+	
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+hr{
+	border-color:yellow;
+	background-color:white;
+	height:2px;
+	
+}
+.quote{
+	font-style:italic;
+	background-color:white;
+	color:red;
+	font-weight:bold;
+	text-align:center;
+}
+.auth{
+	text-align:right;
+	
+}
+
+h1,h2{
+	color:#A4A400;
+	background-color:#F0F0F0;
+	font-family:"Century Gothic",Futura,Verdana,Sans-serif;
+	text-align:center;
+	letter-spacing:1px;
+}
+.main
+{ 
+  height: 100%;background-image: url(yellow.jpg); background-attachment: fixed;padding: 20px;
+
+}
+.abc
+{
+	color:red;
+	font-weight:bold;
+	font-size:20px;
+}
+
+ul.spl{
+	list-style-image:url(small.png);
+}
+table{
+	background-color:#CC9933;
+	color:#FFFFFF;
+	border-color:#FFFFFF;
+	margin-top:20px;
+	border-collapse:collapse;
+}
+caption{
+	color:#A4A400;
+	background-color:#F0F0F0;
+	font-weight:bold;
+}
+th{
+	background-color:#003366;
+	color:#FFFFFF;
+	border:2px solid white;
+	padding:5px;
+	border-color:#FFFFFF;
+}
+td{
+	border-color:#FFFFFF;
+	border:2px solid white;
+	padding:5px;
+}
+.float{
+	float:left;
+	padding-right:20px;
+}
